@@ -1,0 +1,16 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.header .navbar-brand {
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.header .image {
+    background: #648cff;
+}
+
+.bg-custom {
+    background: #648cff;
+}
